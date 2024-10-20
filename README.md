@@ -13,5 +13,5 @@
 ---
 
 ## 📫 *Let's Connect*  
-- [LinkedIn](linkedin.com/in/deva-ganesh-vatturi-152a36296)  
+- [LinkedIn](https://www.linkedin.com/in/deva-ganesh-vatturi-152a36296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - [Twitter](https://x.com/devaganesh1909/)  
