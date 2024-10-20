@@ -1,5 +1,5 @@
 # *Hi there, I'm Deva Ganesh ! 👋*  
-
+A passionate Full Stack Developer, enthusiastic to contribute in open-source 
 ## 💼 *Internship*  
 - *Frontend Intern* at Orinson Technology  
   - Developed responsive web pages using React.js  
