@@ -1,4 +1,4 @@
-# *Hi there, I'm Deva Ganesh !*  
+# *Hi there, I'm Deva Ganesh ! 👋*  
 
 ## 💼 *Internship*  
 - *Frontend Intern* at Orinson Technology  
