@@ -4,8 +4,7 @@
 ## 💼 *Internship*  
 - *Frontend Intern* at Orinson Technology  
   - Developed responsive web pages using React.js  
---
-
+---
 ## 🛠 *Tech Stack*  
 - *Frontend:* React.js, JavaScript, HTML5, CSS3
 - *Backend:* node.js, Express.js, Mongo DB Atlas 
