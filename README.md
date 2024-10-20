@@ -16,7 +16,7 @@
 
 ## 🎓 *Certifications*  
 - [*Career Essentials in Generative AI*](https://www.linkedin.com/learning/certificates/c254c47f2d60fa9912dd70d4e910d1a496de5bb68970cd792210e808781c6bcc) - Issued by Microsoft 
-- [*Python*](https://your-web-certification-link) - Issued by Hacker Rank
+- [*Python*](https://www.hackerrank.com/certificates/8fd81a25e357) - Issued by Hacker Rank
 - [*Hackathon Participation Certificate*](https://your-hackathon-certification-link) – Issued by BrainoVision Solutions
 
 ---
